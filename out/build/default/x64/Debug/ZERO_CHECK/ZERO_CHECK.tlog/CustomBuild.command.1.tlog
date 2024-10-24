@@ -1,0 +1,10 @@
+^C:\USERS\SOTOJ\DOCUMENTS\CPP\PROJECTS\EXAMPLE2\OUT\BUILD\DEFAULT\CMAKEFILES\195563B2CAECC2BCA4E61F2B6A48E17A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sotoj/Documents/Cpp/projects/example2 -BC:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/cmakeExample.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

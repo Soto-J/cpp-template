@@ -1,0 +1,8 @@
+C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/CMakeFiles/Experimental.dir
+C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/CMakeFiles/Nightly.dir
+C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/CMakeFiles/Continuous.dir
+C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/CMakeFiles/cmakeExample.dir
+C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/CMakeFiles/RUN_TESTS.dir
+C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/CMakeFiles/ALL_BUILD.dir
+C:/Users/sotoj/Documents/Cpp/projects/example2/out/build/default/CMakeFiles/ZERO_CHECK.dir
